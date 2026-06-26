@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "1234",
+      "name": "Administrador"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Keyboard",
+      "price": 45,
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "name": "a",
+      "price": 12,
+      "stock": null
+    }
+  ]
+}
